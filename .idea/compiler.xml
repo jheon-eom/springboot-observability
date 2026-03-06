@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17" />
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="order-service" options="-parameters" />
+      <module name="order-service.main" options="-parameters" />
+      <module name="order-service.test" options="-parameters" />
+      <module name="tracing-lab.inventory-service" options="-parameters" />
+      <module name="tracing-lab.inventory-service.main" options="-parameters" />
+      <module name="tracing-lab.inventory-service.test" options="-parameters" />
+      <module name="tracing-lab.order-service" options="-parameters" />
+      <module name="tracing-lab.order-service.main" options="-parameters" />
+      <module name="tracing-lab.order-service.test" options="-parameters" />
+      <module name="tracing-lab.payment-service" options="-parameters" />
+      <module name="tracing-lab.payment-service.main" options="-parameters" />
+      <module name="tracing-lab.payment-service.test" options="-parameters" />
+      <module name="tracing-lab.shipping-service" options="-parameters" />
+      <module name="tracing-lab.shipping-service.main" options="-parameters" />
+      <module name="tracing-lab.shipping-service.test" options="-parameters" />
+    </option>
+  </component>
+</project>

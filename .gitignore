@@ -1,0 +1,15 @@
+# Project exclude paths
+/.gradle/
+/build/
+/inventory-service/build/
+/inventory-service/build/classes/kotlin/main/
+/inventory-service/build/classes/kotlin/test/
+/order-service/build/
+/order-service/build/classes/kotlin/main/
+/order-service/build/classes/kotlin/test/
+/payment-service/build/
+/payment-service/build/classes/kotlin/main/
+/payment-service/build/classes/kotlin/test/
+/shipping-service/build/
+/shipping-service/build/classes/kotlin/main/
+/shipping-service/build/classes/kotlin/test/
