@@ -2,6 +2,11 @@
 
 OpenTelemetry를 활용한 마이크로서비스 분산 추적 학습 프로젝트
 
+## 구현 사진
+<img width="1914" height="1005" alt="metric" src="https://github.com/user-attachments/assets/b6232c9c-677a-4a6e-a3ef-d9e1c11b9514" />
+<img width="1912" height="1008" alt="trace" src="https://github.com/user-attachments/assets/2dc4e845-98c7-4cb4-8220-894c70ad4070" />
+<img width="1914" height="959" alt="logs" src="https://github.com/user-attachments/assets/a8e999fd-7d3e-449b-8764-869ad0a43499" />
+
 ## 프로젝트 개요
 
 이 프로젝트는 Spring Boot와 Kotlin을 기반으로 한 마이크로서비스 아키텍처에서 OpenTelemetry를 사용하여 분산 추적(Distributed Tracing), 메트릭(Metrics), 로그(Logs)를 구현한 학습용 프로젝트입니다.
