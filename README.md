@@ -2,10 +2,15 @@
 
 OpenTelemetry를 활용한 마이크로서비스 분산 추적 학습 프로젝트
 
-## 구현 사진
+## 구현 화면
 <img width="1914" height="1005" alt="metric" src="https://github.com/user-attachments/assets/b6232c9c-677a-4a6e-a3ef-d9e1c11b9514" />
+traces
+
 <img width="1912" height="1008" alt="trace" src="https://github.com/user-attachments/assets/2dc4e845-98c7-4cb4-8220-894c70ad4070" />
+metrics
+
 <img width="1914" height="959" alt="logs" src="https://github.com/user-attachments/assets/a8e999fd-7d3e-449b-8764-869ad0a43499" />
+logs
 
 ## 프로젝트 개요
 
