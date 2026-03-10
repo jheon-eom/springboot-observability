@@ -1,4 +1,4 @@
-# Tracing Lab
+# Observability Lab
 
 OpenTelemetry를 활용한 마이크로서비스 분산 추적 학습 프로젝트
 
