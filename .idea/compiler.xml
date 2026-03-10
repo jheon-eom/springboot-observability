@@ -5,9 +5,13 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="common-observability" options="-parameters" />
       <module name="order-service" options="-parameters" />
       <module name="order-service.main" options="-parameters" />
       <module name="order-service.test" options="-parameters" />
+      <module name="tracing-lab.common-observability" options="-parameters" />
+      <module name="tracing-lab.common-observability.main" options="-parameters" />
+      <module name="tracing-lab.common-observability.test" options="-parameters" />
       <module name="tracing-lab.inventory-service" options="-parameters" />
       <module name="tracing-lab.inventory-service.main" options="-parameters" />
       <module name="tracing-lab.inventory-service.test" options="-parameters" />

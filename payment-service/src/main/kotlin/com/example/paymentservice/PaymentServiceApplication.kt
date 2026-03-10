@@ -3,7 +3,11 @@ package com.example.paymentservice
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
-@SpringBootApplication
+@SpringBootApplication(
+    scanBasePackages = [
+        "com.example.paymentservice",
+        "config"
+    ])
 class PaymentServiceApplication
 
 fun main(args: Array<String>) {
